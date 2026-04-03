@@ -8,7 +8,11 @@ and this project adheres to [Semantic Versioning 2](http://semver.org/).
 
 - Current templates and quickstarts being added to seperate template and quickstart repositories to continue previous version functionality.
 - DotNet tool to install template currently under development.
-- 
+
+## [8.0.5-mintra-as.1] - 2026-04-03
+
+Bug Fix: Breaking change in Microsoft.IdentityModel - exception throw when calling IsNullOrEmpty()
+
 ## [8.0.4] - 2024-02-17
 
 Identity Server 8.0.4 is a security release that addresses hundreds of security vulnerabilities in the IdentityServer8 code base. We recommend that you update to this version.
